@@ -6,18 +6,18 @@
 <br />
 <div align="center">
 	<a href="https://github.com/brahimmade/Casa_Bourse_Scraper">
-		<img src="images/casabourse.png" alt="Logo" width="80" height="80">
+		<img src="images/casabourse.png" alt="Logo" width="100" height="120">
 	</a>
 	<h3 align="center">Casa Bourse Scraper</h3>
 	<p align="center">
 		project_description
 		<br />
-		<a href="https://github.com/brahimmade/Morocco-Covid-19"><strong>Explore the docs »</strong></a>
+		<a href="https://github.com/brahimmade/Casa_Bourse_Scraper"><strong>Explore the docs »</strong></a>
 		<br />
 		<br />
-		<a href="https://github.com/brahimmade/Morocco-Covid-19">View Demo</a>
-		<a href="https://github.com/brahimmade/Morocco-Covid-19/issues">Report Bug</a>
-		<a href="https://github.com/brahimmade/Morocco-Covid-19/issues">Request Feature</a>
+		<a href="https://github.com/brahimmade/Casa_Bourse_Scraper">View Demo</a>
+		<a href="https://github.com/brahimmade/Casa_Bourse_Scraper/issues">Report Bug</a>
+		<a href="https://github.com/brahimmade/Casa_Bourse_Scraper/issues">Request Feature</a>
 	</p>
 </div>
 
