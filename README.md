@@ -5,10 +5,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-	<a href="https://github.com/brahimmade/Morocco-Covid-19">
-		<img src="images/logo.png" alt="Logo" width="80" height="80">
+	<a href="https://github.com/brahimmade/Casa_Bourse_Scraper">
+		<img src="images/casabourse.png" alt="Logo" width="80" height="80">
 	</a>
-	<h3 align="center">Morocco Covid 19</h3>
+	<h3 align="center">Casa Bourse Scraper</h3>
 	<p align="center">
 		project_description
 		<br />
