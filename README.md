@@ -10,7 +10,7 @@
 	</a>
 	<h3 align="center">Casa Bourse Scraper</h3>
 	<p align="center">
-		Getting simplified access to Casablanca Stock Exchange data  
+		Obtenir l'accès simplifié aux données de la Bourse de Casablanca.  
 	</p>
 </div>
 
@@ -20,8 +20,6 @@
 [![Language](https://img.shields.io/badge/Language-Python-green?style)](https://github.com/brahimmade)
 [![PyPI](https://img.shields.io/pypi/v/StocksMA)]()
 [![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flatcolor=BC4E99)](https://github.com/brahimmade/Casa_Bourse_Scraper)
-[![GitHub license](https://img.shields.io/github/license/brahimmade/Casa_Bourse_Scraper)](https://github.com/brahimmade/Casa_Bourse_Scraper/blob/master/LICENSE)
-[![Check Code](https://github.com/brahimmade/Casa_Bourse_Scraper/actions/workflows/check_code.yml/badge.svg)](https://github.com/brahimmade/Casa_Bourse_Scraper/actions/workflows/check_code.yml)
 
 </div>
 
@@ -29,7 +27,9 @@
 <!-- ABOUT THE PROJECT -->
 ## CasaBourseScraper
 
-is a package to facilitate access to financial and economic data of Moroccan stocks. It tries to cover potentially valuable and interesting data points.
+CasaBourseScraper est un paquet pour simplifier l'accès aux données financières et économiques des actions marocaines. Il tente de présenter des informations potentiellement utiles et intéressantes.
+
+CasaBourseScraper offre la possibilité de récupérer les données concernant toutes les actions et permet à l'utilisateur de télécharger les données historiques et intraday de toutes les actions négociées à la Bourse de Casablanca.
 
 
 ### Built With
