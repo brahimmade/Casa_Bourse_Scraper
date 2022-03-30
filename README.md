@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 ```bash
-$ pip install StocksMA
+$ pip install CasaBourseScraper
 ```
 
 ## Usage
@@ -57,25 +57,12 @@ $ pip install StocksMA
 ### Import the package
 
 ```python
->> import StocksMA as stm
+>> import CasaBourseScraper as cbs
 ```
 
 ### Get all availabale tickers
 Show available tickers with the full name of the company
 **Example**:
 ```python
-stm.get_tickers()
+cbs.get_tickers()
 ```
-
-```bash
-ADH / Douja Promotion Groupe Addoha
-ADI / Alliances Developpement Immobilier S.A.
-AFI / Afric Industries S.A.
-AFM / AFMA S.A.
-.
-.
-.
-WAA / Wafa Assurance S.A.
-ZDJ / Zellidja S.A.
-```
-
