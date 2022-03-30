@@ -15,26 +15,26 @@
 </div>
 
 
+<div align="center">
 
+[![Language](https://img.shields.io/badge/Language-Python-green?style)](https://github.com/brahimmade)
+[![PyPI](https://img.shields.io/pypi/v/StocksMA)]()
+[![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flatcolor=BC4E99)](https://github.com/brahimmade/Casa_Bourse_Scraper)
+[![GitHub license](https://img.shields.io/github/license/brahimmade/Casa_Bourse_Scraper)](https://github.com/brahimmade/Casa_Bourse_Scraper/blob/master/LICENSE)
+[![Check Code](https://github.com/brahimmade/Casa_Bourse_Scraper/actions/workflows/check_code.yml/badge.svg)](https://github.com/brahimmade/Casa_Bourse_Scraper/actions/workflows/check_code.yml)
+
+</div>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## CasaBourseScraper
 
-[![CasaBourseScraper][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+is a package to facilitate access to financial and economic data of Moroccan stocks. It tries to cover potentially valuable and interesting data points.
 
 
 ### Built With
 
 * [Python](https://www.python.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
