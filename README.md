@@ -26,11 +26,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## CasaBourseScraper
+<div align="center">
+CasaBourseScraper is a package to simplify the access to financial and economic data of Moroccan stocks. It tries to present potentially useful and interesting information.
 
-CasaBourseScraper est un paquet pour simplifier l'accès aux données financières et économiques des actions marocaines. Il tente de présenter des informations potentiellement utiles et intéressantes.
+The package include functions to grab informations about all stocks form [casablanca-bourse](https://www.casablanca-bourse.com/bourseweb/index.aspx?aspxerrorpath=/bourseweb/bourseweb/index.aspx) & allows the user to download historical and intraday data from all the shares traded on Casablanca Stock Exchange.
 
-CasaBourseScraper offre la possibilité de récupérer les données concernant toutes les actions et permet à l'utilisateur de télécharger les données historiques et intraday de toutes les actions négociées à la Bourse de Casablanca.
-
+> Note: Sometimes, some functions may fail to get the data from some sources due to WAF protection.
+</div>
 
 ### Built With
 
