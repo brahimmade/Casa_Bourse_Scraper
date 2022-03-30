@@ -10,7 +10,7 @@
 	</a>
 	<h3 align="center">Casa Bourse Scraper</h3>
 	<p align="center">
-		project_description
+		Getting simplified access to Casablanca Stock Exchange data  
 		<br />
 		<a href="https://github.com/brahimmade/Casa_Bourse_Scraper"><strong>Explore the docs »</strong></a>
 		<br />
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![CasaBourseScraper][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
